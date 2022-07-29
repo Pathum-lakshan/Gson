@@ -1,0 +1,53 @@
+{
+  "result": true,
+  "categories": [
+    {
+      "customer_category_id": 1,
+      "customer_category_name": "PAINT SHOP",
+      "focus_prod": [
+        {
+          "productId": "100"
+        },
+        {
+          "productId": "101"
+        }
+      ]
+    },
+    {
+      "customer_category_id": 2,
+      "customer_category_name": "HARDWARE",
+      "focus_prod": [
+        {
+          "productId": "200"
+        },
+        {
+          "productId": "201"
+        }
+      ]
+    },
+    {
+      "customer_category_id": 3,
+      "customer_category_name": "GLASS HOUSE",
+      "focus_prod": [
+        {
+          "productId": "50"
+        },
+        {
+          "productId": "51"
+        }
+      ]
+    },
+    {
+      "customer_category_id": 4,
+      "customer_category_name": "ctagerory",
+      "focus_prod": [
+        {
+          "productId": "54"
+        },
+        {
+          "productId": "55"
+        }
+      ]
+    }
+  ]
+}
